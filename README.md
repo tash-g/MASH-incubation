@@ -2,7 +2,8 @@
 Natasha Gillies, Oliver Padget, Martyna Syposz, Sarah Bond, Tim Guilford
 
 ## Overview
-This folder contains codes and data to reproduce both the main and supplementary results of the paper, published in Ornithology (2022). 
+This folder contains codes and data to reproduce both the main and supplementary results of the paper, published in Ornithology (2022); https://doi.org/10.1093/ornithology/ukac006. 
+
 There are 2 folders: "Data_inputs" and "Scripts". As this is a large and multi-year dataset that may be currently used by other members of the project or collaborators, we would appreciate if you could contact Natasha Gillies (gilliesne@gmail.com) if you would like to make use of the dataset. This will reduce duplication of effort and ensure that we can give you any additional information that may be useful for analysis or interpretation.
 
 ## Scripts
